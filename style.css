@@ -162,3 +162,13 @@ main {
     background-color: #0D1B2A;
     color: white;
 }
+footer{
+    width:1179px;
+    height:606px;
+    background-color: #71a9e6;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:80px auto;
+}
